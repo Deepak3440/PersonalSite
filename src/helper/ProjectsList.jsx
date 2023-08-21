@@ -34,8 +34,8 @@ export const ProjectList = [
     name: "Simon Game",
     image: Proj3,
     skills: "HTML,Bootstrap,Javascript",
-    githubLink:"https://github.com/Deepak3440/DicePlay",
-    siteLink:"https:github.com/Deepak3440/DicePlay",
+    githubLink:"https://github.com/Deepak3440",
+    siteLink:"https:github.com/Deepak3440",
   },
  
   {
