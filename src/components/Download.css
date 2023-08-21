@@ -1,0 +1,29 @@
+/* Add this to your Home.css */
+
+.download-resume {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .download-resume button {
+    background-color: #21325e;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  
+  .download-resume button svg {
+    margin-right: 5px;
+  }
+  
+  .download-resume button:hover {
+    background-color: #1a274b;
+  }
+  

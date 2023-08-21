@@ -1,0 +1,58 @@
+/* Footer.css */
+
+.footer {
+  width: 100%;
+  background: #21325e;
+  padding: 20px;
+}
+
+.contact-info {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.address, .phone, .email {
+  margin-bottom: 10px;
+}
+
+.socialMedia {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.socialIcons {
+  margin-bottom: 10px;
+}
+
+.socialMedia a {
+  margin: 5px;
+}
+
+.socialMedia svg {
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.footer p {
+  color: white;
+  font-size: 12px;
+  margin-top: 10px;
+}
+h3{
+  color:white;
+}
+.About1
+{
+  text-align: center;
+  color:grey;
+}
+.fix{
+  text-align: center;
+}
+
+@media only screen and (max-width: 400px) {
+  .footer {
+    padding: 10px;
+  }
+}
