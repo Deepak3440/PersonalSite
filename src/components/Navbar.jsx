@@ -3,7 +3,8 @@ import {Link,useLocation} from "react-router-dom";
 import "./Navbar.css";
 // import ReorderIcon from '@material-ui/icons/Reorder';
 import { useState } from 'react';
-import { FaSort } from 'react-icons/fa';
+import { GiHamburgerMenu } from 'react-icons/gi';
+
 
 
 function Navbar() {
@@ -20,7 +21,7 @@ function Navbar() {
             <button onClick={()=>{setExpandNavbar((prev)=>!prev);
             }}>
                
-                <FaSort />
+                < GiHamburgerMenu/>
 
             </button>
 
