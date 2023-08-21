@@ -43,7 +43,7 @@ export const ProjectList = [
     image: Proj4,
     skills: "ReactJs,HTML,CSS",
     githubLink:"https://github.com/Deepak3440/TextUtility",
-    siteLink:"https://fantastic-puffpuff-1a8039.netlify.app",
+    siteLink:"https://fantastic-puffpuff-1a8039.netlify.app"
   },
   {
     name: "TodoList",
