@@ -34,7 +34,7 @@ const Home = () => {
             <ol className='list'>
                 <li className='item'>
                     <h4>Front-End</h4>
-                    <span> HTML,CSS,Bootstrap,Talwind,
+                    <span> HTML,CSS,Bootstrap,Tailwind,
                         ReactJs</span>
 
                 </li>
